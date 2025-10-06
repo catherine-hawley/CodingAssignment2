@@ -1,0 +1,66 @@
+body {
+
+  background-image: url(https://wallpaperaccess.com/full/2796640.jpg);
+  font-family: "Merriweather";
+  font-size: 18px;
+}
+
+
+.wrapper {
+
+  display: flex;
+
+}
+
+.wrapper div {
+
+  flex: 1;
+}
+ /* div {
+
+border: double cornflowerblue; 
+ 
+
+} */
+
+h1 {
+    font-family: "Merriweather";
+    font-size: 60px;
+    color:saddlebrown;
+    text-align: center;
+}
+
+h2, h3 {
+    font-family: "Merriweather";
+    font-size: 30px;
+  color: saddlebrown;
+} 
+
+
+ul li  {
+    font-family: "Merriweather";
+color: black;
+font-size: 18px;
+}
+
+ol li {
+    color: black;
+     font-family: Merriweather;
+  font-size: 20px;
+}
+
+p {
+    font-family: Merriweather;
+    font-style: oblique;
+    font-size: 14px;
+}
+
+figcaption {
+    font-family: Merriweather;
+    color: navy;
+     font-size: 12px;
+     font-weight: bold;
+     text-align: right;
+}
+
+  
